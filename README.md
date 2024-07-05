@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Punya Jayarajan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<img align="right" alt="Coding" width="300"
-    src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<!--<img align="right" alt="Coding" width="300"
+    src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"> -->
   
     
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Punyaj.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)](https://Punyaj.io)
 
 
 <h1 align="center">Hi 👋, I'm Punya Jayarajan</h1>
